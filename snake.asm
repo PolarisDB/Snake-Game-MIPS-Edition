@@ -56,7 +56,6 @@ Main:
 	
 	j Main
 
-#END
 EXIT1:
 	lw $t0, 0($s0)
 	srl $t0, $t0, 8
